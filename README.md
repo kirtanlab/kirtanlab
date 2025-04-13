@@ -34,9 +34,3 @@ HTML/CSS         Firebase        Image Processing
 
 - **State Winner** in SSIP Azadi Ka Amrit Mahotsav Hackathon 2022, Gujarat
 - **Runner-up** in Hackout '22 by Synapse Committee DA-IICT, Gujarat
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on innovative projects or discussing new technologies. Feel free to reach out!
-
-![Kirtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirtanlab&show_icons=true&theme=radical)
