@@ -18,8 +18,8 @@ My journey spans from building award-winning web applications (proud SSIP '22 Ha
 ```
 Frontend         Backend         ML/AI            DevOps
 ---------        --------        ------           ------
-React.js         Node.js         TensorFlow       AWS
-React Native     Django           PyTorch          Git
+React.js         Springboot      TensorFlow       AWS
+React Native     Django          PyTorch          Git
 Angular.js       MongoDB         Computer Vision  Docker
 Redux            SQL             Deep Learning    
 HTML/CSS         Firebase        Image Processing
