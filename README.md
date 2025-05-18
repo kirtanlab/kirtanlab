@@ -20,7 +20,7 @@ Frontend         Backend         ML/AI            DevOps
 ---------        --------        ------           ------
 React.js         Node.js         TensorFlow       AWS
 React Native     Django           PyTorch          Git
-Vue.js           MongoDB         Computer Vision  Docker
+Angular.js       MongoDB         Computer Vision  Docker
 Redux            SQL             Deep Learning    
 HTML/CSS         Firebase        Image Processing
 ```
