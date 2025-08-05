@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kirtan Prajapati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kirtan-prajapati-6203a21b8/)
-[![Website](https://kirtanjprajapati.netlify.app/)](https://kirtanjprajapati.netlify.app/)
+[![Link](https://kirtanjprajapati.netlify.app/)](https://kirtanjprajapati.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/kirtanlab)
 
 ## 🚀 About Me
