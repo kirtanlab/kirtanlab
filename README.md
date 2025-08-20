@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🎓 **Masters in CS** Student at University of Windsor (Sep 2024- Dec 2025)
-- 🏆 **3 Hackathon Winner** ( 2 State Government and One University Hackathon)
+- 🏆 **3 Hackathons Winner** ( 2 State Government and One University Hackathon)
 - 🌱 Learning modern way to write code and make decision through Open-Source Contribution and Certification Courses
 - 💼 Open for collaboration on innovative projects
 
